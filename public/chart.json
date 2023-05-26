@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "marks": 60,
+            "name": "Assignment-1"
+        },
+        {
+            "id": 2,
+            "marks": 59,
+            "name": "Assignment-2"
+        },
+        {
+            "id": 3,
+            "marks": 60,
+            "name": "Assignment-3"
+        },
+        {
+            "id": 4,
+            "marks": 60,
+            "name": "Assignment-4"
+        },
+        {
+            "id": 5,
+            "marks": 60,
+            "name": "Assignment-5"
+        },
+        {
+            "id": 6,
+            "marks": 60,
+            "name": "Assignment-6"
+        },
+        {
+            "id": 7,
+            "marks": 60,
+            "name": "Assignment-7"
+        },
+        {
+            "id": 8,
+            "marks": 60,
+            "name": "Assignment-8"
+        }
+        
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "category": [
+    {
+      "logo": "https://i.postimg.cc/ncPqM3Zv/01.png",
+      "name": "Account & Finance",
+      "jobs_available": "300 Jobs Available"
+    },
+    {
+      "logo": "https://i.postimg.cc/DfCXYxSt/02.png",
+      "name": "Creative Design",
+      "jobs_available": "100+ Jobs Available"
+    },
+    {
+      "logo": "https://i.postimg.cc/tgyJg613/04.png",
+      "name": "Marketing & Sales",
+      "jobs_available": "150 Jobs Available"
+    },
+    {
+      "logo": "https://i.postimg.cc/7ZzJhDKk/03.png",
+      "name": "Engineering Job",
+      "jobs_available": "224 Jobs Available"
+    }
+  ]
+}

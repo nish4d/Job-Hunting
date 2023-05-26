@@ -1,0 +1,112 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "company_logo": "https://i.postimg.cc/sDX1HgZR/acme.webp",
+        "job_title": "Software Engineer",
+        "company_name": "Acme Corporation",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_parttime": "Full-time",
+        "salary": "$80,000 - $120,000",
+        "job_description": "We're looking for a skilled software engineer to help us build and maintain our software products.",
+        "job_responsibility": "Design, develop, test, deploy, and maintain software applications. Write clean, efficient, and maintainable code. Collaborate with cross-functional teams to identify and solve complex problems. Participate in code reviews and provide feedback to other developers. Ensure software meets quality standards and is delivered on time",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "3+ years of experience in software engineering",
+        "contact_information": {
+          "phone": "555-123-4567",
+          "email": "jobs@acme.com"
+        }
+      },
+      {
+        "id": 2,
+        "company_logo": "https://i.postimg.cc/YqzKF6Sr/globalwidget.png",
+        "job_title": "Marketing Specialist",
+        "company_name": "Global Widgets Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fulltime_parttime": "Full-time",
+        "salary": "$70,000 - $90,000",
+        "job_description": "We're seeking a creative and data-driven marketing specialist to help us develop and execute marketing campaigns that drive growth and engagement.",
+        "job_responsibility": "Develop and execute marketing campaigns across various channels, including email, social media, and paid advertising. Track and analyze marketing metrics to optimize campaign performance. Collaborate with cross-functional teams to ensure consistent messaging and branding. Identify and develop new marketing opportunities and strategies",
+        "educational_requirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "2+ years of experience in marketing or related field",
+        "contact_information": {
+          "phone": "555-123-4567",
+          "email": "jobs@globalwidgets.com"
+        }
+      },
+      {
+        "id": 3,
+        "company_logo": "https://i.postimg.cc/HkrzmmRq/apple.png",
+        "job_title": "Data Analyst",
+        "company_name": "Apple",
+        "remote_or_onsite": "Onsite",
+        "location": "Chicago, IL",
+        "fulltime_parttime": "Full-time",
+        "salary": "$60,000 - $80,000",
+        "job_description": "We're seeking a data analyst to help us make data-driven decisions and optimize our business processes.",
+        "job_responsibility": "Collect, analyze, and interpret data to identify trends and insights. Develop and maintain dashboards and reports to communicate data insights. Collaborate with cross-functional teams to identify opportunities for optimization and improvement. Design and execute experiments to test hypotheses",
+        "educational_requirements": "Bachelor's degree in Statistics, Mathematics, Economics, or related field",
+        "experiences": "2+ years of experience in data analysis or related field",
+        "contact_information": {
+          "phone": "555-123-4567",
+          "email": "jobs@xyzindustries.com"
+        }
+      },
+      {
+        "id": 4,
+        "company_logo": "https://i.postimg.cc/7hB1vtVP/designco.jpg",
+        "job_title": "Graphic Designer",
+        "company_name": "Design Co.",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "fulltime_parttime": "Part-time",
+        "salary": "$25 - $35/hour",
+        "job_description": "We're seeking a talented graphic designer to help us create visually appealing designs for print and digital media.",
+        "job_responsibility": "Design and produce graphics for a variety of mediums, including print and digital media. Collaborate with cross-functional teams to ensure designs meet project requirements and timelines. Manage multiple projects simultaneously and prioritize work effectively. Stay up-to-date with design trends and best practices",
+        "educational_requirements": "Associate's or Bachelor's degree in Graphic Design or related field",
+        "experiences": "2+ years of experience in graphic design or related field",
+        "contact_information": {
+          "phone": "555-123-4567",
+          "email": "jobs@designco.com"
+        }
+      },
+      {
+        "id": 5,
+        "company_logo": "https://i.postimg.cc/JhwNWkbX/tesla.png",
+        "job_title": "Product Manager",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Onsite",
+        "location": "Austin, TX",
+        "fulltime_parttime": "Full-time",
+        "salary": "$100,000 - $130,000",
+        "job_description": "We're seeking a product manager to help us develop and execute our product vision and strategy.",
+        "job_responsibility": "Develop and maintain a product roadmap that aligns with business goals and customer needs. Collaborate with cross-functional teams to define product requirements and priorities. Define and analyze product metrics to measure success and inform decision-making. Stay up-to-date with market trends and competitors to identify new product opportunities",
+        "educational_requirements": "Bachelor's degree in Business, Computer Science, or related field",
+        "experiences": "5+ years of experience in product management or related field",
+        "contact_information": {
+          "phone": "555-123-4567",
+          "email": "jobs@techstartup.com"
+        }
+      },
+      {
+        "id": 6,
+        "company_logo": "https://i.postimg.cc/DyHsqXpN/airbnb.png",
+        "job_title": "Sales Representative",
+        "company_name": "airbnb",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "fulltime_parttime": "Full-time",
+        "salary": "$50,000 - $80,000",
+        "job_description": "We're seeking a motivated sales representative to help us generate new business and build lasting relationships with customers.",
+        "job_responsibility": "Generate new leads and opportunities through cold-calling, networking, and other sales tactics. Develop and maintain relationships with existing customers. Present and sell company products and services to prospective customers. Collaborate with cross-functional teams to ensure customer needs are met",
+        "educational_requirements": "High school diploma or equivalent required; Bachelor's degree in Business, Sales, or related field preferred",
+        "experiences": "2+ years of experience in sales or related field",
+        "contact_information": {
+          "phone": "555-123-4567",
+          "email": "jobs@salesco.com"
+        }
+      }
+    ]
+  }

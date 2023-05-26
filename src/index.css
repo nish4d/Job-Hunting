@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradient{
+    @apply text-white font-bold bg-gradient-to-r from-[#7E90FE] to-[#9873FF]
+}
+
+.text-gradient{
+    @apply font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#7E90FE] to-[#9873FF]
+}
+
+.small-btn{
+    @apply btn btn-sm bg-transparent text-gradient border border-[#7E90FE] hover:border-[#7E90FE]
+}
+
